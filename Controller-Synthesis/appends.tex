@@ -1,0 +1,14 @@
+\clearpage
+\section*{\begin{center} Приложение А\end{center}}
+
+Листинг 1 --- программа нахождения значения матриц в дискретном пространстве
+\begin{lstlisting}
+	T = 0.004;
+	An = [0, 0.25; 0, -10];
+	Bn = [0; 5000];
+	Ad = expm(A * T);
+	Bd = 0;
+	for i = 1:00
+		Bd = Bd + (A^(i - 1) * T^(i))/(prod(1:i)) * Bn;
+	end
+\end{lstlisting}
