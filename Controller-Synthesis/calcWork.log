@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.19)  3 MAY 2017 19:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.5.5)  6 MAY 2017 14:51
 entering extended mode
 **./calcWork.tex
 (calcWork.tex
@@ -1128,7 +1128,7 @@ LaTeX Font Warning: Font shape `T2A/cmr/m/n' in size <16> not available
 [1
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}])
+{C:/Users/Niirn/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
 <Images/struct.png, id=12, 430.60875pt x 145.29282pt>
 File: Images/struct.png Graphic file (type png)
  <use Images/struct.png>
@@ -1218,8 +1218,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  8529 strings out of 493333
- 115662 string characters out of 3139194
- 192594 words of memory out of 3000000
+ 115662 string characters out of 3139195
+ 192594 words of memory out of 10000000
  11866 multiletter control sequences out of 15000+200000
  21424 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
